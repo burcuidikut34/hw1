@@ -1,7 +1,0 @@
-#include<stdio.h>
-#include<conio.h>
-void main()
-
-{
-	int sayi, birler, onlar, yuzler, binler;
-	}
